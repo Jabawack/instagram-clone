@@ -56,6 +56,6 @@ To push the current branch and set the remote as upstream, use
 
 Solution
 ```
-[master] $ git push --set-upstream origin master## 
+[master] $ git push --set-upstream origin master
 ```
 ---
